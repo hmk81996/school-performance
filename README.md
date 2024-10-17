@@ -8,4 +8,4 @@ The School_Type table shows that between Charter and District schools, the forme
 
 #Conclusions
 
-We can conclude that school spending is not a large factor in improving test scores. The two most important factors in this data set are size and school type: small and medium schools result in higher test scores than large schools while charter Schools significatnly out perform district schools.
+We can conclude that school spending is not a large factor in improving test scores. The two most important factors in this data set are size and school type: small and medium schools result in higher test scores than large schools while charter Schools significantly out perform district schools.
