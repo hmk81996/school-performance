@@ -25,6 +25,10 @@ The **Size_Summary** shows that schools with a Large population tend to result i
 
 The **School_Type** table shows that between Charter and District schools, the former produced higher test scores in every category. The % Overall Passing showed the greatest difference: Charter schools were at 90.4% while District schools lagged behind at 53.7%. This data is further supported by the Highest Performing Schools (all Charter) and Bottom Performing Schools (all District) data sets. 
 
+# Tableau Dashboard
+
+[Link to Tableau Dashboard](https://public.tableau.com/shared/7N8539JDH?:display_count=n&:origin=viz_share_link)
+
 # Conclusions
 
 We can conclude that school spending is not a large factor in improving test scores. The two most important factors in this data set are size and school type: small and medium schools result in higher test scores than large schools and charter schools significantly out-perform district schools.
