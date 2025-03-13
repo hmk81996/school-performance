@@ -34,6 +34,23 @@ Using my initial analysis as a foundation, I built a presentation-ready Tableau 
 - Math & Reading Performance: Breakdown by school & grade level
 - Size & Spending Analysis: Do smaller schools perform better? Does higher spending per student lead to better outcomes?
 
+District Overview
+![District Table](images/district_summary.jpg)
+
+Spending Summary
+![Spending Table](images/spending_summary.jpg)
+
+Scores Summary
+![Scores Table](images/scores_summary.jpg)
+
+Grade-Level Performance
+![Grade Bar Chart](images/grade_level_scores.png)
+
+School Size vs Scores
+![Size Table](images/size_v_score.png)
+
+Spending vs Scores
+![Chart and Table](images/spending_v_score.png)
 
 
 # Conclusions
